@@ -3,6 +3,6 @@ SQL project to analyze online music store data
 
 # Database and Tools
 
-Postgre SQL
+- Postgre SQL
 
-PgAdmin4
+- PgAdmin4
